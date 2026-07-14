@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T13:59:43.936Z",
+  "generatedAt": "2026-07-14T14:04:22.887Z",
   "storyCount": 51,
   "stories": [
     {
@@ -23,7 +23,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "anubis-heart",
@@ -45,7 +45,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "arachne-weaving",
@@ -67,7 +67,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "atrahasis-flood",
@@ -89,7 +89,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.986Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "baldr-death",
@@ -111,7 +111,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "change-moon",
@@ -133,7 +133,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "children-lir",
@@ -155,7 +155,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "cuchulainn-hound",
@@ -177,7 +177,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "deirdre-sorrow",
@@ -199,7 +199,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.986Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "fionn-salmon",
@@ -221,7 +221,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "ganesha-origin",
@@ -243,7 +243,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "gilgamesh-immortality",
@@ -265,7 +265,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "hanuman-mountain",
@@ -287,7 +287,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "hathor-eye",
@@ -309,7 +309,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "horus-seth",
@@ -331,7 +331,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "houyi-suns",
@@ -353,7 +353,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "huitzilopochtli-coyolxauhqui",
@@ -375,7 +375,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "icarus-wings",
@@ -397,7 +397,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "idunn-apples",
@@ -419,7 +419,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "inanna-underworld",
@@ -441,7 +441,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "ishtar-gilgamesh",
@@ -463,7 +463,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "izanagi-yomi",
@@ -485,7 +485,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "jason-golden-fleece",
@@ -507,7 +507,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.986Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "jingwei-sea",
@@ -529,7 +529,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.987Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "krishna-kaliya",
@@ -551,7 +551,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.987Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "loki-sleipnir",
@@ -573,7 +573,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "marduk-tiamat",
@@ -595,7 +595,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "midas-gold",
@@ -617,7 +617,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "nanahuatzin-sun",
@@ -639,7 +639,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "nuwa-sky",
@@ -661,7 +661,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "odin-wisdom",
@@ -683,7 +683,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "okuninushi-hare",
@@ -705,7 +705,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.986Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "orpheus-eurydice",
@@ -727,7 +727,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "osiris-return",
@@ -749,7 +749,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "pandora-jar",
@@ -771,7 +771,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "persephone-seasons",
@@ -793,7 +793,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "phaethon-sun-chariot",
@@ -815,7 +815,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.986Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "prometheus-fire",
@@ -837,7 +837,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "quetzalcoatl-life",
@@ -859,7 +859,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "ra-night",
@@ -881,7 +881,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "ragnarok",
@@ -903,7 +903,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "samudra-manthan",
@@ -925,7 +925,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "savitri-satyavan",
@@ -947,7 +947,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.987Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "shiva-poison",
@@ -969,7 +969,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "sigurd-fafnir",
@@ -991,7 +991,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.986Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "susanoo-orochi",
@@ -1013,7 +1013,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "theseus-minotaur",
@@ -1035,7 +1035,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "thor-hammer",
@@ -1057,7 +1057,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "tyr-fenrir",
@@ -1079,7 +1079,7 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:59:43.936Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "xolotl-axolotl",
@@ -1101,7 +1101,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.987Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "yu-great-flood",
@@ -1123,7 +1123,7 @@
         }
       ],
       "quality": "editorially-approved",
-      "updatedAt": "2026-07-14T10:47:48.987Z"
+      "updatedAt": "2026-07-14T00:00:00.000Z"
     }
   ]
 }
