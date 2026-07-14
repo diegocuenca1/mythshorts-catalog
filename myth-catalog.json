@@ -1,0 +1,1078 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-14T13:53:25.944Z",
+  "storyCount": 51,
+  "stories": [
+    {
+      "id": "amaterasu-cave",
+      "civilization": "Japanese",
+      "title": "Amaterasu and the Cave of the Sun",
+      "hook": "The sun disappeared, and the world was left in darkness.",
+      "texture": "With the sun gone, no command could simply make her return. The other gods had to make the world feel alive again.",
+      "facts": [
+        "Amaterasu hid in a cave after a conflict with Susanoo.",
+        "The world was plunged into darkness.",
+        "The other kami held a celebration to draw her out.",
+        "When Amaterasu returned, light returned with her."
+      ],
+      "sources": [
+        {
+          "title": "Kojiki; Nihon Shoki",
+          "variantNote": "Mark regional and later folkloric variants."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "anubis-heart",
+      "civilization": "Egyptian",
+      "title": "Anubis and the Weighing of the Heart",
+      "hook": "After death, one question remained: was your heart lighter than a feather?",
+      "texture": "Nothing could be argued away there. A person’s own heart was the thing placed on the scale.",
+      "facts": [
+        "Anubis guided the judgment of the dead.",
+        "A heart was weighed against the feather of Maat.",
+        "The feather represented truth, balance, and justice.",
+        "The result decided the dead person’s fate."
+      ],
+      "sources": [
+        {
+          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "variantNote": "Accounts change across long historical periods."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "arachne-weaving",
+      "civilization": "Greek",
+      "title": "Arachne and Athena",
+      "hook": "Arachne was so certain of her talent that she challenged a goddess to prove it.",
+      "texture": "Her skill was undeniable, which made the challenge feel less like a boast and more like a collision waiting to happen.",
+      "facts": [
+        "Arachne was famous for her weaving.",
+        "She challenged Athena to a contest.",
+        "Her tapestry offended the goddess.",
+        "In the traditional tale, she became a spider."
+      ],
+      "sources": [
+        {
+          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "variantNote": "Versions differ by author and period."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "atrahasis-flood",
+      "civilization": "Mesopotamian",
+      "title": "Atrahasis and the Flood",
+      "hook": "Atrahasis heard a warning no one else was meant to hear: a flood was coming, and the gods had already decided the outcome.",
+      "texture": "The terror is not only the water. It is the knowledge that survival depends on acting before anyone believes you.",
+      "facts": [
+        "The gods decided to send a flood against humanity in the Atrahasis Epic.",
+        "Enki warned Atrahasis through a wall or reed hut in the surviving tradition.",
+        "Atrahasis built a boat and preserved living creatures.",
+        "After the flood, the gods established limits on human population."
+      ],
+      "sources": [
+        {
+          "title": "Atrahasis Epic",
+          "variantNote": "Do not merge it uncritically with later flood traditions."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.986Z"
+    },
+    {
+      "id": "baldr-death",
+      "civilization": "Norse",
+      "title": "The Death of Baldr",
+      "hook": "The gods tried to make Baldr untouchable, but one small thing slipped through their protection.",
+      "texture": "The tragedy cuts deeper because everyone believed they had already removed every danger from Baldr’s path.",
+      "facts": [
+        "Baldr was loved by the gods and feared dreams of death.",
+        "Frigg asked things in the world not to harm him.",
+        "Mistletoe was overlooked in many versions.",
+        "A mistletoe weapon caused Baldr’s death through Loki’s plot."
+      ],
+      "sources": [
+        {
+          "title": "Poetic Edda; Prose Edda",
+          "variantNote": "Keep Eddic variants separate from later retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "change-moon",
+      "civilization": "Chinese",
+      "title": "Chang’e and the Moon",
+      "hook": "One drink of immortality changed Chang’e’s life and placed her beyond reach.",
+      "texture": "The gift of immortality is not presented as simple freedom. It also creates distance that cannot be undone.",
+      "facts": [
+        "Hou Yi received an elixir connected to immortality.",
+        "Chang’e drank it in a well-known version of the tale.",
+        "She rose to the moon.",
+        "She is associated with the moon in later tradition."
+      ],
+      "sources": [
+        {
+          "title": "Classic of Mountains and Seas; Huainanzi",
+          "variantNote": "Separate early textual traditions from later folk retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "children-lir",
+      "civilization": "Celtic",
+      "title": "The Children of Lir",
+      "hook": "Four children were turned into swans and left to watch centuries pass from the water.",
+      "texture": "Their punishment was not one dramatic moment. It was the slow ache of watching generations disappear around them.",
+      "facts": [
+        "The children of Lir were transformed into swans by their stepmother in Irish tradition.",
+        "They were condemned to wander for centuries.",
+        "They kept their human voices and memories.",
+        "Their story ends when the enchantment is broken, too late for their old lives."
+      ],
+      "sources": [
+        {
+          "title": "Táin Bó Cúailnge; Lebor Gabála Érenn; Irish mythological cycles",
+          "variantNote": "Use an identified Irish or Welsh tradition, not the catch-all “Celtic”."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "cuchulainn-hound",
+      "civilization": "Celtic",
+      "title": "The Name of Cú Chulainn",
+      "hook": "Before he became a legend, Sétanta made one promise that changed his name forever.",
+      "texture": "For a child, it was an impossible debt: a dead guard dog had left a household unprotected.",
+      "facts": [
+        "As a child, he was called Sétanta.",
+        "He accidentally killed Culann’s guard dog.",
+        "He promised to take the animal’s place until another could be found.",
+        "That is why he became Cú Chulainn, the Hound of Culann."
+      ],
+      "sources": [
+        {
+          "title": "Táin Bó Cúailnge; Lebor Gabála Érenn; Irish mythological cycles",
+          "variantNote": "Use an identified Irish or Welsh tradition, not the catch-all “Celtic”."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "deirdre-sorrow",
+      "civilization": "Celtic",
+      "title": "Deirdre of the Sorrows",
+      "hook": "Before Deirdre could choose her own life, a prophecy had already turned her future into a political prize.",
+      "texture": "Her escape is not a simple romance. Every mile away from Ulster carries the shadow of the court she left behind.",
+      "facts": [
+        "A prophecy said Deirdre would bring sorrow to Ulster.",
+        "Conchobar planned to marry her when she grew older.",
+        "Deirdre fled with Naoise and his brothers.",
+        "Their return to Ulster ended in betrayal and tragedy."
+      ],
+      "sources": [
+        {
+          "title": "Longes mac nUislenn",
+          "variantNote": "Irish tale; present it as a tragic cycle, not generic Celtic lore."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.986Z"
+    },
+    {
+      "id": "fionn-salmon",
+      "civilization": "Celtic",
+      "title": "Fionn and the Salmon of Knowledge",
+      "hook": "Fionn was only meant to cook a salmon, not taste the knowledge hidden inside it.",
+      "texture": "The knowledge arrives by accident, which is why the moment feels more like fate than a prize he earned.",
+      "facts": [
+        "A salmon was said to contain all knowledge.",
+        "The poet Finn Eces told the young Fionn to cook it.",
+        "Fionn burned his thumb and put it in his mouth.",
+        "By tasting the salmon, he gained its wisdom."
+      ],
+      "sources": [
+        {
+          "title": "Táin Bó Cúailnge; Lebor Gabála Érenn; Irish mythological cycles",
+          "variantNote": "Use an identified Irish or Welsh tradition, not the catch-all “Celtic”."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "ganesha-origin",
+      "civilization": "Hindu",
+      "title": "The Origin of Ganesha",
+      "hook": "Ganesha was created to guard a door, but the person approaching it did not know who he was.",
+      "texture": "The tragedy begins because neither side understands who is standing at the door or why he refuses to move.",
+      "facts": [
+        "Ganesha is recognized by his elephant head.",
+        "In one version, Parvati created him to guard her entrance.",
+        "Shiva did not recognize him and tragedy followed.",
+        "He was restored to life with a new head and granted honor."
+      ],
+      "sources": [
+        {
+          "title": "Ramayana; Mahabharata; Puranas",
+          "variantNote": "Identify the epic or Purana because versions vary widely."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "gilgamesh-immortality",
+      "civilization": "Mesopotamian",
+      "title": "Gilgamesh and the Search for Immortality",
+      "hook": "After losing Enkidu, Gilgamesh stopped looking for glory and started looking for a way to escape death.",
+      "texture": "His search becomes painful because every answer comes after he has already learned how fragile a life can be.",
+      "facts": [
+        "Gilgamesh sought to defeat death after losing Enkidu.",
+        "He traveled to find Utnapishtim.",
+        "He discovered a plant that could restore youth.",
+        "A serpent took the plant before he could use it."
+      ],
+      "sources": [
+        {
+          "title": "Epic of Gilgamesh; Enuma Elish; Inanna texts",
+          "variantNote": "Do not merge Sumerian, Akkadian, and Babylonian variants without attribution."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "hanuman-mountain",
+      "civilization": "Hindu",
+      "title": "Hanuman and the Mountain of Herbs",
+      "hook": "With Lakshmana’s life at stake, Hanuman had no time to choose the right healing plant.",
+      "texture": "There is no time for perfect certainty when someone’s life is slipping away. Action has to come first.",
+      "facts": [
+        "Hanuman aided Rama in the Ramayana.",
+        "He searched for a healing plant to save Lakshmana.",
+        "Unable to identify it, he carried the entire mountain.",
+        "The episode highlights his loyalty, strength, and determination."
+      ],
+      "sources": [
+        {
+          "title": "Ramayana; Mahabharata; Puranas",
+          "variantNote": "Identify the epic or Purana because versions vary widely."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "hathor-eye",
+      "civilization": "Egyptian",
+      "title": "The Eye of Ra",
+      "hook": "When Ra sent his eye to punish humanity, the punishment nearly became unstoppable.",
+      "texture": "Once violence was unleashed, even Ra had to find a way to stop the force he had sent out.",
+      "facts": [
+        "Ra sent his eye to punish people who rebelled.",
+        "The eye appeared as a fierce goddess in different versions.",
+        "The destruction became so severe that Ra regretted it.",
+        "Beer dyed red was used to calm the raging goddess."
+      ],
+      "sources": [
+        {
+          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "variantNote": "Accounts change across long historical periods."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "horus-seth",
+      "civilization": "Egyptian",
+      "title": "Horus and Seth",
+      "hook": "After Osiris fell, Egypt’s throne became the prize in a bitter struggle.",
+      "texture": "This was more than a family fight; the struggle asked who could bring order back after murder and chaos.",
+      "facts": [
+        "Horus and Seth contended after the death of Osiris.",
+        "Their conflict concerned the right to rule Egypt.",
+        "The gods judged their rivalry in different versions.",
+        "Horus eventually became the model of rightful kingship."
+      ],
+      "sources": [
+        {
+          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "variantNote": "Accounts change across long historical periods."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "houyi-suns",
+      "civilization": "Chinese",
+      "title": "Hou Yi and the Ten Suns",
+      "hook": "Ten suns rose together, and the earth began to burn beneath them.",
+      "texture": "The earth does not need every sun. It needs one, and someone brave enough to make that terrible choice.",
+      "facts": [
+        "Ten suns once rose together and scorched the earth.",
+        "The archer Hou Yi was sent to stop the disaster.",
+        "He shot down nine suns.",
+        "He left one sun so the world would still have light."
+      ],
+      "sources": [
+        {
+          "title": "Classic of Mountains and Seas; Huainanzi",
+          "variantNote": "Separate early textual traditions from later folk retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "huitzilopochtli-coyolxauhqui",
+      "civilization": "Aztec",
+      "title": "Huitzilopochtli and Coyolxauhqui",
+      "hook": "Before his first breath, Huitzilopochtli was already surrounded by enemies.",
+      "texture": "The threat arrives before the hero can even enter the world, turning birth itself into a battlefield.",
+      "facts": [
+        "Coatlicue became pregnant after a ball of feathers touched her.",
+        "Her daughter Coyolxauhqui led siblings against her.",
+        "Huitzilopochtli emerged fully armed at his birth.",
+        "He defeated the attackers in a foundational Mexica myth."
+      ],
+      "sources": [
+        {
+          "title": "Florentine Codex; Historia de los mexicanos por sus pinturas",
+          "variantNote": "Name the tradition as Nahua or Mexica when the source warrants it."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "icarus-wings",
+      "civilization": "Greek",
+      "title": "Daedalus and Icarus",
+      "hook": "Icarus was free at last, with the whole sky above him and one warning below it.",
+      "texture": "The escape was real, but the sky gave Icarus nowhere to hide from the result of one reckless choice.",
+      "facts": [
+        "Daedalus made wings from feathers and wax to escape Crete.",
+        "He warned Icarus not to fly too close to the sun.",
+        "Icarus rose higher despite the warning.",
+        "The wax melted and he fell into the sea."
+      ],
+      "sources": [
+        {
+          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "variantNote": "Versions differ by author and period."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "idunn-apples",
+      "civilization": "Norse",
+      "title": "Iðunn and the Apples of Youth",
+      "hook": "The gods only noticed Iðunn was gone when they began to grow old.",
+      "texture": "The gods had treated youth as permanent, until Iðunn’s absence made time visible on every face.",
+      "facts": [
+        "Iðunn guarded apples that kept the gods young.",
+        "The giant Thjazi forced Loki to bring her outside Asgard.",
+        "Without the apples, the gods began to age.",
+        "Loki helped bring Iðunn back to Asgard."
+      ],
+      "sources": [
+        {
+          "title": "Poetic Edda; Prose Edda",
+          "variantNote": "Keep Eddic variants separate from later retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "inanna-underworld",
+      "civilization": "Mesopotamian",
+      "title": "Inanna’s Descent to the Underworld",
+      "hook": "Inanna walked into the underworld knowing every gate would take something from her.",
+      "texture": "At every gate, status and protection were stripped away. By the end, even a goddess stood without power.",
+      "facts": [
+        "Inanna descended into the realm of her sister Ereshkigal.",
+        "At each gate she gave up part of her attributes.",
+        "She died and was later rescued.",
+        "The myth explores power, loss, and transformation."
+      ],
+      "sources": [
+        {
+          "title": "Epic of Gilgamesh; Enuma Elish; Inanna texts",
+          "variantNote": "Do not merge Sumerian, Akkadian, and Babylonian variants without attribution."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "ishtar-gilgamesh",
+      "civilization": "Mesopotamian",
+      "title": "Ishtar and the Bull of Heaven",
+      "hook": "Gilgamesh rejected a goddess, and the answer came with the force of heaven behind it.",
+      "texture": "A refusal that might have been personal suddenly became a danger for an entire city.",
+      "facts": [
+        "Ishtar asked Gilgamesh to become her lover.",
+        "Gilgamesh refused and recalled the suffering of her past partners.",
+        "Ishtar sent the Bull of Heaven against Uruk.",
+        "Gilgamesh and Enkidu defeated the bull."
+      ],
+      "sources": [
+        {
+          "title": "Epic of Gilgamesh; Enuma Elish; Inanna texts",
+          "variantNote": "Do not merge Sumerian, Akkadian, and Babylonian variants without attribution."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "izanagi-yomi",
+      "civilization": "Japanese",
+      "title": "Izanagi’s Journey to Yomi",
+      "hook": "Izanagi entered the land of the dead for the person he could not bear to lose.",
+      "texture": "The journey turns on a familiar fear: loving someone enough to follow them, then fearing what you find.",
+      "facts": [
+        "Izanagi went to Yomi to bring back Izanami.",
+        "He was told not to look at her.",
+        "He broke the promise and saw her transformed by death.",
+        "He fled and sealed the entrance to the underworld."
+      ],
+      "sources": [
+        {
+          "title": "Kojiki; Nihon Shoki",
+          "variantNote": "Mark regional and later folkloric variants."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "jason-golden-fleece",
+      "civilization": "Greek",
+      "title": "Jason and the Golden Fleece",
+      "hook": "Jason was told he could reclaim a kingdom, but first he had to steal a prize guarded at the edge of the world.",
+      "texture": "The voyage gathers heroes, but the real danger begins when ambition turns into a test no strength alone can solve.",
+      "facts": [
+        "Jason sailed with the Argonauts to seek the Golden Fleece.",
+        "King Aeëtes set tasks that included yoking fire-breathing bulls.",
+        "Medea helped Jason in versions where she falls in love with him.",
+        "Jason escaped with the Fleece after overcoming the tasks."
+      ],
+      "sources": [
+        {
+          "title": "Apollonius of Rhodes, Argonautica",
+          "variantNote": "Later retellings differ in Medea’s role."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.986Z"
+    },
+    {
+      "id": "jingwei-sea",
+      "civilization": "Chinese",
+      "title": "Jingwei Fills the Sea",
+      "hook": "A girl drowned in the sea, then returned as a bird with one impossible plan: fill the ocean itself.",
+      "texture": "Jingwei cannot win by force. What makes the image endure is the tiny weight of each twig carried against something vast.",
+      "facts": [
+        "In the tale, a girl drowned in the Eastern Sea.",
+        "She became the bird Jingwei.",
+        "Jingwei carried twigs and stones toward the sea.",
+        "Her endless labor is an act of defiance against the sea that drowned her."
+      ],
+      "sources": [
+        {
+          "title": "Classic of Mountains and Seas",
+          "variantNote": "Early mythic text; avoid later embellishments."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.987Z"
+    },
+    {
+      "id": "krishna-kaliya",
+      "civilization": "Hindu",
+      "title": "Krishna and Kaliya",
+      "hook": "A river had become so poisoned that no one could safely enter it, until Krishna stepped into the water.",
+      "texture": "The fight is remembered for its impossible image: not a warrior standing over a serpent, but dancing on the heads of one.",
+      "facts": [
+        "The serpent Kaliya poisoned the waters of the Yamuna in the story.",
+        "Krishna entered the river to confront him.",
+        "Krishna danced upon Kaliya’s hoods.",
+        "Kaliya was spared after he submitted and left the river."
+      ],
+      "sources": [
+        {
+          "title": "Bhagavata Purana",
+          "variantNote": "Present this as a Purāṇic telling."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.987Z"
+    },
+    {
+      "id": "loki-sleipnir",
+      "civilization": "Norse",
+      "title": "How Sleipnir Was Born",
+      "hook": "A bargain to protect Asgard was about to cost the gods far more than they expected.",
+      "texture": "What began as a clever construction deal became a race against a deadline the gods could not afford to lose.",
+      "facts": [
+        "A builder promised to fortify Asgard in exchange for great rewards.",
+        "His horse Svaðilfari made the work progress too quickly.",
+        "Loki intervened so the bargain would fail.",
+        "That story led to Sleipnir, Odin’s eight-legged horse."
+      ],
+      "sources": [
+        {
+          "title": "Poetic Edda; Prose Edda",
+          "variantNote": "Keep Eddic variants separate from later retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "marduk-tiamat",
+      "civilization": "Mesopotamian",
+      "title": "Marduk and Tiamat",
+      "hook": "When chaos took the shape of Tiamat, the gods needed someone willing to face it.",
+      "texture": "The other gods offered Marduk power because they were too frightened to face the chaos themselves.",
+      "facts": [
+        "Tiamat became a great force of chaos in the Enuma Elish.",
+        "The gods sought a champion to face her.",
+        "Marduk defeated Tiamat after receiving authority.",
+        "He used her divided body to order the cosmos."
+      ],
+      "sources": [
+        {
+          "title": "Epic of Gilgamesh; Enuma Elish; Inanna texts",
+          "variantNote": "Do not merge Sumerian, Akkadian, and Babylonian variants without attribution."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "midas-gold",
+      "civilization": "Greek",
+      "title": "The Golden Touch of Midas",
+      "hook": "King Midas thought he had asked for the perfect gift, until he tried to eat.",
+      "texture": "Gold had always looked like security from a distance. In his hands, it became the opposite.",
+      "facts": [
+        "Midas was granted a wish by Dionysus.",
+        "He asked that everything he touched turn to gold.",
+        "Food and drink also became gold in his hands.",
+        "He begged to be freed from the gift."
+      ],
+      "sources": [
+        {
+          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "variantNote": "Versions differ by author and period."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "nanahuatzin-sun",
+      "civilization": "Aztec",
+      "title": "Nanahuatzin Becomes the Sun",
+      "hook": "When the gods needed a new sun, the humble one moved before the powerful one could.",
+      "texture": "The contrast is the point: the one with less status finds the courage that the celebrated candidate cannot.",
+      "facts": [
+        "The gods needed someone to become the new sun.",
+        "The wealthy Tecuciztecatl hesitated before the sacred fire.",
+        "The humble Nanahuatzin leapt in first.",
+        "He became the sun, while Tecuciztecatl became the moon in the story."
+      ],
+      "sources": [
+        {
+          "title": "Florentine Codex; Historia de los mexicanos por sus pinturas",
+          "variantNote": "Name the tradition as Nahua or Mexica when the source warrants it."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "nuwa-sky",
+      "civilization": "Chinese",
+      "title": "Nüwa Repairs the Sky",
+      "hook": "When the sky itself broke, Nüwa had to repair the world before it collapsed completely.",
+      "texture": "The scale of the disaster is cosmic, but the response is practical: repair what has broken before everything falls.",
+      "facts": [
+        "A catastrophe damaged the pillars supporting the sky.",
+        "Nüwa melted five-colored stones to repair the heavens.",
+        "She used the legs of a giant turtle as new supports.",
+        "The tale presents her as a restorer of cosmic order."
+      ],
+      "sources": [
+        {
+          "title": "Classic of Mountains and Seas; Huainanzi",
+          "variantNote": "Separate early textual traditions from later folk retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "odin-wisdom",
+      "civilization": "Norse",
+      "title": "Odin’s Sacrifice for Wisdom",
+      "hook": "Odin wanted wisdom badly enough to pay for it with part of himself.",
+      "texture": "Knowledge in this telling is never free. The question is always what someone is willing to lose for it.",
+      "facts": [
+        "Odin wanted to drink from Mímir’s well.",
+        "He gave one of his eyes as payment.",
+        "The myth connects him with the pursuit of knowledge.",
+        "Odin is also linked to runes and poetry."
+      ],
+      "sources": [
+        {
+          "title": "Poetic Edda; Prose Edda",
+          "variantNote": "Keep Eddic variants separate from later retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "okuninushi-hare",
+      "civilization": "Japanese",
+      "title": "Ōkuninushi and the Hare of Inaba",
+      "hook": "A wounded hare lay on the shore after one clever trick went terribly wrong.",
+      "texture": "Everyone who passed by had an answer, but only one response understood that healing starts with listening instead of showing off.",
+      "facts": [
+        "A hare tricked sharks to cross the sea and was left injured.",
+        "Ōkuninushi’s brothers gave the hare painful advice.",
+        "Ōkuninushi told the hare to wash in fresh water and roll in pollen.",
+        "The healed hare predicted that Ōkuninushi would win a princess."
+      ],
+      "sources": [
+        {
+          "title": "Kojiki",
+          "variantNote": "Keep the story’s healing sequence intact."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.986Z"
+    },
+    {
+      "id": "orpheus-eurydice",
+      "civilization": "Greek",
+      "title": "Orpheus and Eurydice",
+      "hook": "Orpheus was given an impossible bargain: lead Eurydice out of death, but never look back.",
+      "texture": "He had already crossed a boundary no living musician was supposed to cross, and the way back demanded trust.",
+      "facts": [
+        "Orpheus descended to the underworld for Eurydice.",
+        "His music moved Hades and Persephone.",
+        "He was allowed to lead her out without looking back.",
+        "He looked back too soon and lost her again."
+      ],
+      "sources": [
+        {
+          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "variantNote": "Versions differ by author and period."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "osiris-return",
+      "civilization": "Egyptian",
+      "title": "Osiris, Isis, and the Return to Life",
+      "hook": "Seth killed Osiris, but Isis refused to let the story end there.",
+      "texture": "Isis turns grief into action, searching through loss instead of accepting the violence done to Osiris.",
+      "facts": [
+        "Osiris was killed by his brother Seth in a central tradition.",
+        "Isis gathered his body with the help of magic.",
+        "Horus was born to confront Seth.",
+        "Osiris became ruler of the world of the dead."
+      ],
+      "sources": [
+        {
+          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "variantNote": "Accounts change across long historical periods."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "pandora-jar",
+      "civilization": "Greek",
+      "title": "Pandora’s Jar",
+      "hook": "Pandora had one sealed jar, one warning, and a question she could not leave alone.",
+      "texture": "The danger was not a monster at the door. It was the small, human urge to know what had been forbidden.",
+      "facts": [
+        "Pandora was given a sealed jar in Greek tradition.",
+        "She opened it despite the warning.",
+        "Hardships escaped into the world.",
+        "Hope remained inside the jar."
+      ],
+      "sources": [
+        {
+          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "variantNote": "Versions differ by author and period."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "persephone-seasons",
+      "civilization": "Greek",
+      "title": "Persephone and the Seasons",
+      "hook": "The moment Persephone vanished, the world itself began to starve.",
+      "texture": "Demeter’s grief did not stay private. It reached the fields, the harvest, and every living thing.",
+      "facts": [
+        "Hades took Persephone to the underworld.",
+        "Demeter stopped making the earth fertile while searching for her.",
+        "Persephone ate pomegranate seeds.",
+        "Her periodic return explains the seasons in Greek tradition."
+      ],
+      "sources": [
+        {
+          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "variantNote": "Versions differ by author and period."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "phaethon-sun-chariot",
+      "civilization": "Greek",
+      "title": "Phaethon and the Sun Chariot",
+      "hook": "Phaethon wanted proof that the sun god was his father, so he asked for the one gift no mortal could control.",
+      "texture": "The wish looks glorious for a heartbeat. Then the sky becomes a place where one mistake can burn the world below.",
+      "facts": [
+        "Phaethon asked to drive the chariot of the sun for one day.",
+        "He could not control the horses.",
+        "The chariot’s path scorched parts of the earth.",
+        "Zeus struck Phaethon down to stop the disaster."
+      ],
+      "sources": [
+        {
+          "title": "Ovid, Metamorphoses, Book II",
+          "variantNote": "Use Ovid’s version as the anchor."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.986Z"
+    },
+    {
+      "id": "prometheus-fire",
+      "civilization": "Greek",
+      "title": "Prometheus and the Stolen Fire",
+      "hook": "Before humans had warmth, light, or the tools to shape their lives, Prometheus made a choice that enraged Zeus.",
+      "texture": "For humans, fire meant more than warmth; it meant the power to make, survive, and begin again.",
+      "facts": [
+        "Prometheus gave fire to humankind.",
+        "Zeus punished him by chaining him to the Caucasus.",
+        "An eagle consumed his liver each day.",
+        "In a well-known version, Heracles eventually freed him."
+      ],
+      "sources": [
+        {
+          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "variantNote": "Versions differ by author and period."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "quetzalcoatl-life",
+      "civilization": "Aztec",
+      "title": "Quetzalcoatl and the Return of Life",
+      "hook": "To bring life back, Quetzalcoatl had to descend into the realm of the dead.",
+      "texture": "The journey asks for more than courage. It asks a god to carry the remains of an older world into a new one.",
+      "facts": [
+        "Quetzalcoatl is associated with the feathered serpent.",
+        "In one tradition, he descended to Mictlan to recover bones from earlier generations.",
+        "Humanity was created from those bones and his blood.",
+        "The story links sacrifice, creation, and renewal."
+      ],
+      "sources": [
+        {
+          "title": "Florentine Codex; Historia de los mexicanos por sus pinturas",
+          "variantNote": "Name the tradition as Nahua or Mexica when the source warrants it."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "ra-night",
+      "civilization": "Egyptian",
+      "title": "Ra’s Night Journey",
+      "hook": "Every sunset was only the beginning of Ra’s most dangerous journey.",
+      "texture": "Dawn was never guaranteed. Each morning had to be won again in the darkness beneath the horizon.",
+      "facts": [
+        "Ra crossed the sky in a solar boat.",
+        "At night he traveled through the underworld.",
+        "There he faced the serpent Apophis.",
+        "His victory allowed dawn to return."
+      ],
+      "sources": [
+        {
+          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "variantNote": "Accounts change across long historical periods."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "ragnarok",
+      "civilization": "Norse",
+      "title": "Ragnarök: The Twilight of the Gods",
+      "hook": "Norse myth does not promise the gods a peaceful ending; it promises a final day of reckoning.",
+      "texture": "Even the strongest gods know what is coming. That certainty is what gives the final battle its weight.",
+      "facts": [
+        "Ragnarök is a prophesied series of catastrophic events.",
+        "Fenrir and other enemies break free.",
+        "Many gods fight and fall in the final battle.",
+        "After destruction, the world is described as renewed."
+      ],
+      "sources": [
+        {
+          "title": "Poetic Edda; Prose Edda",
+          "variantNote": "Keep Eddic variants separate from later retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "samudra-manthan",
+      "civilization": "Hindu",
+      "title": "The Churning of the Ocean",
+      "hook": "Gods and rivals pulled on the same cosmic rope, hoping the ocean would give up immortality.",
+      "texture": "Both sides wanted the same prize, so cooperation was always going to be temporary and dangerous.",
+      "facts": [
+        "Devas and asuras churned the cosmic ocean to seek amrita.",
+        "They used Mount Mandara as a churning rod and Vasuki as a rope.",
+        "Many beings and treasures emerged from the ocean.",
+        "The quest for immortality became a struggle between rival groups."
+      ],
+      "sources": [
+        {
+          "title": "Ramayana; Mahabharata; Puranas",
+          "variantNote": "Identify the epic or Purana because versions vary widely."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "savitri-satyavan",
+      "civilization": "Hindu",
+      "title": "Savitri and Satyavan",
+      "hook": "Savitri knew the day her husband would die, and she chose him anyway.",
+      "texture": "When death finally arrives, the story does not make her stronger with a weapon. It gives her patience, language, and a refusal to turn back.",
+      "facts": [
+        "Savitri chose Satyavan despite a prophecy that he would die within a year.",
+        "When Satyavan died, Yama took his soul.",
+        "Savitri followed Yama and spoke with him.",
+        "Yama granted boons that ultimately allowed Satyavan to return to life."
+      ],
+      "sources": [
+        {
+          "title": "Mahabharata, Vana Parva",
+          "variantNote": "Keep Savitri’s dialogue with Yama central."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.987Z"
+    },
+    {
+      "id": "shiva-poison",
+      "civilization": "Hindu",
+      "title": "Shiva Drinks the Poison",
+      "hook": "The search for immortality first released something that could destroy the world.",
+      "texture": "Before anyone could claim immortality, someone had to face the poison no one else could contain.",
+      "facts": [
+        "During the churning of the ocean, a deadly poison appeared.",
+        "Its danger threatened gods and worlds.",
+        "Shiva drank it to contain the poison.",
+        "His blue throat gave him the name Neelkanth in this tradition."
+      ],
+      "sources": [
+        {
+          "title": "Ramayana; Mahabharata; Puranas",
+          "variantNote": "Identify the epic or Purana because versions vary widely."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "sigurd-fafnir",
+      "civilization": "Norse",
+      "title": "Sigurd and Fafnir",
+      "hook": "Sigurd did not face Fafnir with an army. He waited alone beneath the path of a dragon.",
+      "texture": "The victory is only the first surprise, because the blood of the creature changes what Sigurd can hear and whom he can trust.",
+      "facts": [
+        "Sigurd was urged to kill the dragon Fafnir.",
+        "He dug a pit and struck Fafnir from below.",
+        "After tasting the dragon’s blood, Sigurd understood birds in the tale.",
+        "The birds warned him about danger from Regin."
+      ],
+      "sources": [
+        {
+          "title": "Völsunga saga",
+          "variantNote": "Separate this heroic legend from the Eddic gods."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.986Z"
+    },
+    {
+      "id": "susanoo-orochi",
+      "civilization": "Japanese",
+      "title": "Susanoo and the Serpent Orochi",
+      "hook": "One family faced a creature with eight heads, eight tails, and no obvious way to win.",
+      "texture": "The family had already lost daughters to the serpent. This was their last chance to stop the pattern.",
+      "facts": [
+        "Susanoo found a family terrified of Orochi.",
+        "The creature had eight heads and eight tails.",
+        "Susanoo deceived it with strong sake.",
+        "He found the sword Kusanagi inside one of its tails."
+      ],
+      "sources": [
+        {
+          "title": "Kojiki; Nihon Shoki",
+          "variantNote": "Mark regional and later folkloric variants."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "theseus-minotaur",
+      "civilization": "Greek",
+      "title": "Theseus and the Minotaur",
+      "hook": "A monster waited at the center of a maze built to make escape impossible.",
+      "texture": "The Labyrinth was not just a prison for a monster; it was designed to make anyone inside feel lost.",
+      "facts": [
+        "Athens sent young people to Crete as tribute.",
+        "Theseus entered the Labyrinth to face the Minotaur.",
+        "Ariadne gave him a thread to find the way back.",
+        "He returned from the maze after killing the creature."
+      ],
+      "sources": [
+        {
+          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "variantNote": "Versions differ by author and period."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "thor-hammer",
+      "civilization": "Norse",
+      "title": "The Theft of Thor’s Hammer",
+      "hook": "Thor woke to discover that the weapon no giant could face had vanished.",
+      "texture": "Without Mjölnir, the thunder god was not only embarrassed; the balance between gods and giants felt exposed.",
+      "facts": [
+        "The giant Thrym stole Mjölnir.",
+        "He demanded Freyja as the price for its return.",
+        "Thor disguised himself as Freyja to recover it.",
+        "When the hammer returned to his hands, he defeated the giants."
+      ],
+      "sources": [
+        {
+          "title": "Poetic Edda; Prose Edda",
+          "variantNote": "Keep Eddic variants separate from later retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "tyr-fenrir",
+      "civilization": "Norse",
+      "title": "Týr and the Binding of Fenrir",
+      "hook": "To bind a wolf the gods feared, someone had to put a hand where no one else would.",
+      "texture": "The gods needed proof that Fenrir would trust them, even while they were preparing to betray that trust.",
+      "facts": [
+        "The gods feared Fenrir’s growing strength.",
+        "They asked the wolf to test a magical binding.",
+        "Týr placed his hand in Fenrir’s mouth as a pledge.",
+        "Fenrir bit off Týr’s hand when he could not escape."
+      ],
+      "sources": [
+        {
+          "title": "Poetic Edda; Prose Edda",
+          "variantNote": "Keep Eddic variants separate from later retellings."
+        }
+      ],
+      "quality": "reviewed-seed",
+      "updatedAt": "2026-07-14T13:53:25.944Z"
+    },
+    {
+      "id": "xolotl-axolotl",
+      "civilization": "Aztec",
+      "title": "Xolotl and the Axolotl",
+      "hook": "When the gods prepared to die so the sun could move, one of them ran.",
+      "texture": "Xolotl’s story is strange because it turns fear itself into a shape that survives in water, visible and impossible to ignore.",
+      "facts": [
+        "In one Nahua tradition, the gods had to sacrifice themselves to set the new sun in motion.",
+        "Xolotl feared death and tried to avoid the sacrifice.",
+        "He changed forms while fleeing.",
+        "One version connects his final transformation with the axolotl."
+      ],
+      "sources": [
+        {
+          "title": "Nahua traditions; review against colonial-era codices",
+          "variantNote": "Label this as a Nahua/Mexica variant when sourced."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.987Z"
+    },
+    {
+      "id": "yu-great-flood",
+      "civilization": "Chinese",
+      "title": "Yu and the Great Flood",
+      "hook": "For years, Yu watched floodwater take the land, and he chose not to fight it the way everyone else had.",
+      "texture": "His solution is not one spectacular battle. It is the slower, harder idea that sometimes survival means giving a force somewhere to go.",
+      "facts": [
+        "A great flood threatened the land in Chinese tradition.",
+        "Yu worked to channel the waters rather than simply block them.",
+        "He traveled and labored for years in the story.",
+        "His success is linked with the founding of the Xia dynasty in later tradition."
+      ],
+      "sources": [
+        {
+          "title": "Shujing traditions and later accounts",
+          "variantNote": "Versions differ; identify the tradition used in final review."
+        }
+      ],
+      "quality": "editorially-approved",
+      "updatedAt": "2026-07-14T10:47:48.987Z"
+    }
+  ]
+}
