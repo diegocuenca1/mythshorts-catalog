@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T14:04:22.887Z",
+  "generatedAt": "2026-07-14T14:06:01.136Z",
   "storyCount": 51,
   "stories": [
     {
@@ -18,8 +18,12 @@
       ],
       "sources": [
         {
-          "title": "Kojiki; Nihon Shoki",
+          "title": "Kojiki",
           "variantNote": "Mark regional and later folkloric variants."
+        },
+        {
+          "title": "Nihon Shoki",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -40,8 +44,16 @@
       ],
       "sources": [
         {
-          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "title": "Pyramid Texts",
           "variantNote": "Accounts change across long historical periods."
+        },
+        {
+          "title": "Coffin Texts",
+          "variantNote": ""
+        },
+        {
+          "title": "Book of the Dead",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -62,8 +74,16 @@
       ],
       "sources": [
         {
-          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "title": "Hesiod, Theogony",
           "variantNote": "Versions differ by author and period."
+        },
+        {
+          "title": "Ovid, Metamorphoses",
+          "variantNote": ""
+        },
+        {
+          "title": "Apollodorus, Bibliotheca",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -106,8 +126,12 @@
       ],
       "sources": [
         {
-          "title": "Poetic Edda; Prose Edda",
+          "title": "Poetic Edda",
           "variantNote": "Keep Eddic variants separate from later retellings."
+        },
+        {
+          "title": "Prose Edda",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -128,8 +152,12 @@
       ],
       "sources": [
         {
-          "title": "Classic of Mountains and Seas; Huainanzi",
+          "title": "Classic of Mountains and Seas",
           "variantNote": "Separate early textual traditions from later folk retellings."
+        },
+        {
+          "title": "Huainanzi",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -150,8 +178,16 @@
       ],
       "sources": [
         {
-          "title": "Táin Bó Cúailnge; Lebor Gabála Érenn; Irish mythological cycles",
+          "title": "Táin Bó Cúailnge",
           "variantNote": "Use an identified Irish or Welsh tradition, not the catch-all “Celtic”."
+        },
+        {
+          "title": "Lebor Gabála Érenn",
+          "variantNote": ""
+        },
+        {
+          "title": "Irish mythological cycles",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -172,8 +208,16 @@
       ],
       "sources": [
         {
-          "title": "Táin Bó Cúailnge; Lebor Gabála Érenn; Irish mythological cycles",
+          "title": "Táin Bó Cúailnge",
           "variantNote": "Use an identified Irish or Welsh tradition, not the catch-all “Celtic”."
+        },
+        {
+          "title": "Lebor Gabála Érenn",
+          "variantNote": ""
+        },
+        {
+          "title": "Irish mythological cycles",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -216,8 +260,16 @@
       ],
       "sources": [
         {
-          "title": "Táin Bó Cúailnge; Lebor Gabála Érenn; Irish mythological cycles",
+          "title": "Táin Bó Cúailnge",
           "variantNote": "Use an identified Irish or Welsh tradition, not the catch-all “Celtic”."
+        },
+        {
+          "title": "Lebor Gabála Érenn",
+          "variantNote": ""
+        },
+        {
+          "title": "Irish mythological cycles",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -238,8 +290,16 @@
       ],
       "sources": [
         {
-          "title": "Ramayana; Mahabharata; Puranas",
+          "title": "Ramayana",
           "variantNote": "Identify the epic or Purana because versions vary widely."
+        },
+        {
+          "title": "Mahabharata",
+          "variantNote": ""
+        },
+        {
+          "title": "Puranas",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -260,8 +320,16 @@
       ],
       "sources": [
         {
-          "title": "Epic of Gilgamesh; Enuma Elish; Inanna texts",
+          "title": "Epic of Gilgamesh",
           "variantNote": "Do not merge Sumerian, Akkadian, and Babylonian variants without attribution."
+        },
+        {
+          "title": "Enuma Elish",
+          "variantNote": ""
+        },
+        {
+          "title": "Inanna texts",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -282,8 +350,16 @@
       ],
       "sources": [
         {
-          "title": "Ramayana; Mahabharata; Puranas",
+          "title": "Ramayana",
           "variantNote": "Identify the epic or Purana because versions vary widely."
+        },
+        {
+          "title": "Mahabharata",
+          "variantNote": ""
+        },
+        {
+          "title": "Puranas",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -304,8 +380,16 @@
       ],
       "sources": [
         {
-          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "title": "Pyramid Texts",
           "variantNote": "Accounts change across long historical periods."
+        },
+        {
+          "title": "Coffin Texts",
+          "variantNote": ""
+        },
+        {
+          "title": "Book of the Dead",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -326,8 +410,16 @@
       ],
       "sources": [
         {
-          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "title": "Pyramid Texts",
           "variantNote": "Accounts change across long historical periods."
+        },
+        {
+          "title": "Coffin Texts",
+          "variantNote": ""
+        },
+        {
+          "title": "Book of the Dead",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -348,8 +440,12 @@
       ],
       "sources": [
         {
-          "title": "Classic of Mountains and Seas; Huainanzi",
+          "title": "Classic of Mountains and Seas",
           "variantNote": "Separate early textual traditions from later folk retellings."
+        },
+        {
+          "title": "Huainanzi",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -370,8 +466,12 @@
       ],
       "sources": [
         {
-          "title": "Florentine Codex; Historia de los mexicanos por sus pinturas",
+          "title": "Florentine Codex",
           "variantNote": "Name the tradition as Nahua or Mexica when the source warrants it."
+        },
+        {
+          "title": "Historia de los mexicanos por sus pinturas",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -392,8 +492,16 @@
       ],
       "sources": [
         {
-          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "title": "Hesiod, Theogony",
           "variantNote": "Versions differ by author and period."
+        },
+        {
+          "title": "Ovid, Metamorphoses",
+          "variantNote": ""
+        },
+        {
+          "title": "Apollodorus, Bibliotheca",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -414,8 +522,12 @@
       ],
       "sources": [
         {
-          "title": "Poetic Edda; Prose Edda",
+          "title": "Poetic Edda",
           "variantNote": "Keep Eddic variants separate from later retellings."
+        },
+        {
+          "title": "Prose Edda",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -436,8 +548,16 @@
       ],
       "sources": [
         {
-          "title": "Epic of Gilgamesh; Enuma Elish; Inanna texts",
+          "title": "Epic of Gilgamesh",
           "variantNote": "Do not merge Sumerian, Akkadian, and Babylonian variants without attribution."
+        },
+        {
+          "title": "Enuma Elish",
+          "variantNote": ""
+        },
+        {
+          "title": "Inanna texts",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -458,8 +578,16 @@
       ],
       "sources": [
         {
-          "title": "Epic of Gilgamesh; Enuma Elish; Inanna texts",
+          "title": "Epic of Gilgamesh",
           "variantNote": "Do not merge Sumerian, Akkadian, and Babylonian variants without attribution."
+        },
+        {
+          "title": "Enuma Elish",
+          "variantNote": ""
+        },
+        {
+          "title": "Inanna texts",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -480,8 +608,12 @@
       ],
       "sources": [
         {
-          "title": "Kojiki; Nihon Shoki",
+          "title": "Kojiki",
           "variantNote": "Mark regional and later folkloric variants."
+        },
+        {
+          "title": "Nihon Shoki",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -568,8 +700,12 @@
       ],
       "sources": [
         {
-          "title": "Poetic Edda; Prose Edda",
+          "title": "Poetic Edda",
           "variantNote": "Keep Eddic variants separate from later retellings."
+        },
+        {
+          "title": "Prose Edda",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -590,8 +726,16 @@
       ],
       "sources": [
         {
-          "title": "Epic of Gilgamesh; Enuma Elish; Inanna texts",
+          "title": "Epic of Gilgamesh",
           "variantNote": "Do not merge Sumerian, Akkadian, and Babylonian variants without attribution."
+        },
+        {
+          "title": "Enuma Elish",
+          "variantNote": ""
+        },
+        {
+          "title": "Inanna texts",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -612,8 +756,16 @@
       ],
       "sources": [
         {
-          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "title": "Hesiod, Theogony",
           "variantNote": "Versions differ by author and period."
+        },
+        {
+          "title": "Ovid, Metamorphoses",
+          "variantNote": ""
+        },
+        {
+          "title": "Apollodorus, Bibliotheca",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -634,8 +786,12 @@
       ],
       "sources": [
         {
-          "title": "Florentine Codex; Historia de los mexicanos por sus pinturas",
+          "title": "Florentine Codex",
           "variantNote": "Name the tradition as Nahua or Mexica when the source warrants it."
+        },
+        {
+          "title": "Historia de los mexicanos por sus pinturas",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -656,8 +812,12 @@
       ],
       "sources": [
         {
-          "title": "Classic of Mountains and Seas; Huainanzi",
+          "title": "Classic of Mountains and Seas",
           "variantNote": "Separate early textual traditions from later folk retellings."
+        },
+        {
+          "title": "Huainanzi",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -678,8 +838,12 @@
       ],
       "sources": [
         {
-          "title": "Poetic Edda; Prose Edda",
+          "title": "Poetic Edda",
           "variantNote": "Keep Eddic variants separate from later retellings."
+        },
+        {
+          "title": "Prose Edda",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -722,8 +886,16 @@
       ],
       "sources": [
         {
-          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "title": "Hesiod, Theogony",
           "variantNote": "Versions differ by author and period."
+        },
+        {
+          "title": "Ovid, Metamorphoses",
+          "variantNote": ""
+        },
+        {
+          "title": "Apollodorus, Bibliotheca",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -744,8 +916,16 @@
       ],
       "sources": [
         {
-          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "title": "Pyramid Texts",
           "variantNote": "Accounts change across long historical periods."
+        },
+        {
+          "title": "Coffin Texts",
+          "variantNote": ""
+        },
+        {
+          "title": "Book of the Dead",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -766,8 +946,16 @@
       ],
       "sources": [
         {
-          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "title": "Hesiod, Theogony",
           "variantNote": "Versions differ by author and period."
+        },
+        {
+          "title": "Ovid, Metamorphoses",
+          "variantNote": ""
+        },
+        {
+          "title": "Apollodorus, Bibliotheca",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -788,8 +976,16 @@
       ],
       "sources": [
         {
-          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "title": "Hesiod, Theogony",
           "variantNote": "Versions differ by author and period."
+        },
+        {
+          "title": "Ovid, Metamorphoses",
+          "variantNote": ""
+        },
+        {
+          "title": "Apollodorus, Bibliotheca",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -832,8 +1028,16 @@
       ],
       "sources": [
         {
-          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "title": "Hesiod, Theogony",
           "variantNote": "Versions differ by author and period."
+        },
+        {
+          "title": "Ovid, Metamorphoses",
+          "variantNote": ""
+        },
+        {
+          "title": "Apollodorus, Bibliotheca",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -854,8 +1058,12 @@
       ],
       "sources": [
         {
-          "title": "Florentine Codex; Historia de los mexicanos por sus pinturas",
+          "title": "Florentine Codex",
           "variantNote": "Name the tradition as Nahua or Mexica when the source warrants it."
+        },
+        {
+          "title": "Historia de los mexicanos por sus pinturas",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -876,8 +1084,16 @@
       ],
       "sources": [
         {
-          "title": "Pyramid Texts; Coffin Texts; Book of the Dead",
+          "title": "Pyramid Texts",
           "variantNote": "Accounts change across long historical periods."
+        },
+        {
+          "title": "Coffin Texts",
+          "variantNote": ""
+        },
+        {
+          "title": "Book of the Dead",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -898,8 +1114,12 @@
       ],
       "sources": [
         {
-          "title": "Poetic Edda; Prose Edda",
+          "title": "Poetic Edda",
           "variantNote": "Keep Eddic variants separate from later retellings."
+        },
+        {
+          "title": "Prose Edda",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -920,8 +1140,16 @@
       ],
       "sources": [
         {
-          "title": "Ramayana; Mahabharata; Puranas",
+          "title": "Ramayana",
           "variantNote": "Identify the epic or Purana because versions vary widely."
+        },
+        {
+          "title": "Mahabharata",
+          "variantNote": ""
+        },
+        {
+          "title": "Puranas",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -964,8 +1192,16 @@
       ],
       "sources": [
         {
-          "title": "Ramayana; Mahabharata; Puranas",
+          "title": "Ramayana",
           "variantNote": "Identify the epic or Purana because versions vary widely."
+        },
+        {
+          "title": "Mahabharata",
+          "variantNote": ""
+        },
+        {
+          "title": "Puranas",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -1008,8 +1244,12 @@
       ],
       "sources": [
         {
-          "title": "Kojiki; Nihon Shoki",
+          "title": "Kojiki",
           "variantNote": "Mark regional and later folkloric variants."
+        },
+        {
+          "title": "Nihon Shoki",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -1030,8 +1270,16 @@
       ],
       "sources": [
         {
-          "title": "Hesiod, Theogony; Ovid, Metamorphoses; Apollodorus, Bibliotheca",
+          "title": "Hesiod, Theogony",
           "variantNote": "Versions differ by author and period."
+        },
+        {
+          "title": "Ovid, Metamorphoses",
+          "variantNote": ""
+        },
+        {
+          "title": "Apollodorus, Bibliotheca",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -1052,8 +1300,12 @@
       ],
       "sources": [
         {
-          "title": "Poetic Edda; Prose Edda",
+          "title": "Poetic Edda",
           "variantNote": "Keep Eddic variants separate from later retellings."
+        },
+        {
+          "title": "Prose Edda",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -1074,8 +1326,12 @@
       ],
       "sources": [
         {
-          "title": "Poetic Edda; Prose Edda",
+          "title": "Poetic Edda",
           "variantNote": "Keep Eddic variants separate from later retellings."
+        },
+        {
+          "title": "Prose Edda",
+          "variantNote": ""
         }
       ],
       "quality": "reviewed-seed",
@@ -1096,8 +1352,12 @@
       ],
       "sources": [
         {
-          "title": "Nahua traditions; review against colonial-era codices",
+          "title": "Nahua traditions",
           "variantNote": "Label this as a Nahua/Mexica variant when sourced."
+        },
+        {
+          "title": "review against colonial-era codices",
+          "variantNote": ""
         }
       ],
       "quality": "editorially-approved",
