@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T13:53:25.944Z",
+  "generatedAt": "2026-07-14T13:59:43.936Z",
   "storyCount": 51,
   "stories": [
     {
       "id": "amaterasu-cave",
       "civilization": "Japanese",
+      "character": "Amaterasu",
       "title": "Amaterasu and the Cave of the Sun",
       "hook": "The sun disappeared, and the world was left in darkness.",
       "texture": "With the sun gone, no command could simply make her return. The other gods had to make the world feel alive again.",
@@ -22,11 +23,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "anubis-heart",
       "civilization": "Egyptian",
+      "character": "Anubis",
       "title": "Anubis and the Weighing of the Heart",
       "hook": "After death, one question remained: was your heart lighter than a feather?",
       "texture": "Nothing could be argued away there. A person’s own heart was the thing placed on the scale.",
@@ -43,11 +45,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "arachne-weaving",
       "civilization": "Greek",
+      "character": "Arachne",
       "title": "Arachne and Athena",
       "hook": "Arachne was so certain of her talent that she challenged a goddess to prove it.",
       "texture": "Her skill was undeniable, which made the challenge feel less like a boast and more like a collision waiting to happen.",
@@ -64,11 +67,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "atrahasis-flood",
       "civilization": "Mesopotamian",
+      "character": "Atrahasis",
       "title": "Atrahasis and the Flood",
       "hook": "Atrahasis heard a warning no one else was meant to hear: a flood was coming, and the gods had already decided the outcome.",
       "texture": "The terror is not only the water. It is the knowledge that survival depends on acting before anyone believes you.",
@@ -90,6 +94,7 @@
     {
       "id": "baldr-death",
       "civilization": "Norse",
+      "character": "Baldr",
       "title": "The Death of Baldr",
       "hook": "The gods tried to make Baldr untouchable, but one small thing slipped through their protection.",
       "texture": "The tragedy cuts deeper because everyone believed they had already removed every danger from Baldr’s path.",
@@ -106,11 +111,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "change-moon",
       "civilization": "Chinese",
+      "character": "Chang’e",
       "title": "Chang’e and the Moon",
       "hook": "One drink of immortality changed Chang’e’s life and placed her beyond reach.",
       "texture": "The gift of immortality is not presented as simple freedom. It also creates distance that cannot be undone.",
@@ -127,11 +133,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "children-lir",
       "civilization": "Celtic",
+      "character": "The Children of Lir",
       "title": "The Children of Lir",
       "hook": "Four children were turned into swans and left to watch centuries pass from the water.",
       "texture": "Their punishment was not one dramatic moment. It was the slow ache of watching generations disappear around them.",
@@ -148,11 +155,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "cuchulainn-hound",
       "civilization": "Celtic",
+      "character": "Cú Chulainn",
       "title": "The Name of Cú Chulainn",
       "hook": "Before he became a legend, Sétanta made one promise that changed his name forever.",
       "texture": "For a child, it was an impossible debt: a dead guard dog had left a household unprotected.",
@@ -169,11 +177,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "deirdre-sorrow",
       "civilization": "Celtic",
+      "character": "Deirdre",
       "title": "Deirdre of the Sorrows",
       "hook": "Before Deirdre could choose her own life, a prophecy had already turned her future into a political prize.",
       "texture": "Her escape is not a simple romance. Every mile away from Ulster carries the shadow of the court she left behind.",
@@ -195,6 +204,7 @@
     {
       "id": "fionn-salmon",
       "civilization": "Celtic",
+      "character": "Fionn mac Cumhaill",
       "title": "Fionn and the Salmon of Knowledge",
       "hook": "Fionn was only meant to cook a salmon, not taste the knowledge hidden inside it.",
       "texture": "The knowledge arrives by accident, which is why the moment feels more like fate than a prize he earned.",
@@ -211,11 +221,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "ganesha-origin",
       "civilization": "Hindu",
+      "character": "Ganesha",
       "title": "The Origin of Ganesha",
       "hook": "Ganesha was created to guard a door, but the person approaching it did not know who he was.",
       "texture": "The tragedy begins because neither side understands who is standing at the door or why he refuses to move.",
@@ -232,11 +243,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "gilgamesh-immortality",
       "civilization": "Mesopotamian",
+      "character": "Gilgamesh",
       "title": "Gilgamesh and the Search for Immortality",
       "hook": "After losing Enkidu, Gilgamesh stopped looking for glory and started looking for a way to escape death.",
       "texture": "His search becomes painful because every answer comes after he has already learned how fragile a life can be.",
@@ -253,11 +265,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "hanuman-mountain",
       "civilization": "Hindu",
+      "character": "Hanuman",
       "title": "Hanuman and the Mountain of Herbs",
       "hook": "With Lakshmana’s life at stake, Hanuman had no time to choose the right healing plant.",
       "texture": "There is no time for perfect certainty when someone’s life is slipping away. Action has to come first.",
@@ -274,11 +287,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "hathor-eye",
       "civilization": "Egyptian",
+      "character": "Hathor",
       "title": "The Eye of Ra",
       "hook": "When Ra sent his eye to punish humanity, the punishment nearly became unstoppable.",
       "texture": "Once violence was unleashed, even Ra had to find a way to stop the force he had sent out.",
@@ -295,11 +309,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "horus-seth",
       "civilization": "Egyptian",
+      "character": "Horus",
       "title": "Horus and Seth",
       "hook": "After Osiris fell, Egypt’s throne became the prize in a bitter struggle.",
       "texture": "This was more than a family fight; the struggle asked who could bring order back after murder and chaos.",
@@ -316,11 +331,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "houyi-suns",
       "civilization": "Chinese",
+      "character": "Hou Yi",
       "title": "Hou Yi and the Ten Suns",
       "hook": "Ten suns rose together, and the earth began to burn beneath them.",
       "texture": "The earth does not need every sun. It needs one, and someone brave enough to make that terrible choice.",
@@ -337,11 +353,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "huitzilopochtli-coyolxauhqui",
       "civilization": "Aztec",
+      "character": "Huitzilopochtli",
       "title": "Huitzilopochtli and Coyolxauhqui",
       "hook": "Before his first breath, Huitzilopochtli was already surrounded by enemies.",
       "texture": "The threat arrives before the hero can even enter the world, turning birth itself into a battlefield.",
@@ -358,11 +375,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "icarus-wings",
       "civilization": "Greek",
+      "character": "Icarus",
       "title": "Daedalus and Icarus",
       "hook": "Icarus was free at last, with the whole sky above him and one warning below it.",
       "texture": "The escape was real, but the sky gave Icarus nowhere to hide from the result of one reckless choice.",
@@ -379,11 +397,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "idunn-apples",
       "civilization": "Norse",
+      "character": "Iðunn",
       "title": "Iðunn and the Apples of Youth",
       "hook": "The gods only noticed Iðunn was gone when they began to grow old.",
       "texture": "The gods had treated youth as permanent, until Iðunn’s absence made time visible on every face.",
@@ -400,11 +419,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "inanna-underworld",
       "civilization": "Mesopotamian",
+      "character": "Inanna",
       "title": "Inanna’s Descent to the Underworld",
       "hook": "Inanna walked into the underworld knowing every gate would take something from her.",
       "texture": "At every gate, status and protection were stripped away. By the end, even a goddess stood without power.",
@@ -421,11 +441,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "ishtar-gilgamesh",
       "civilization": "Mesopotamian",
+      "character": "Ishtar",
       "title": "Ishtar and the Bull of Heaven",
       "hook": "Gilgamesh rejected a goddess, and the answer came with the force of heaven behind it.",
       "texture": "A refusal that might have been personal suddenly became a danger for an entire city.",
@@ -442,11 +463,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "izanagi-yomi",
       "civilization": "Japanese",
+      "character": "Izanagi and Izanami",
       "title": "Izanagi’s Journey to Yomi",
       "hook": "Izanagi entered the land of the dead for the person he could not bear to lose.",
       "texture": "The journey turns on a familiar fear: loving someone enough to follow them, then fearing what you find.",
@@ -463,11 +485,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "jason-golden-fleece",
       "civilization": "Greek",
+      "character": "Jason",
       "title": "Jason and the Golden Fleece",
       "hook": "Jason was told he could reclaim a kingdom, but first he had to steal a prize guarded at the edge of the world.",
       "texture": "The voyage gathers heroes, but the real danger begins when ambition turns into a test no strength alone can solve.",
@@ -489,6 +512,7 @@
     {
       "id": "jingwei-sea",
       "civilization": "Chinese",
+      "character": "Jingwei",
       "title": "Jingwei Fills the Sea",
       "hook": "A girl drowned in the sea, then returned as a bird with one impossible plan: fill the ocean itself.",
       "texture": "Jingwei cannot win by force. What makes the image endure is the tiny weight of each twig carried against something vast.",
@@ -510,6 +534,7 @@
     {
       "id": "krishna-kaliya",
       "civilization": "Hindu",
+      "character": "Krishna",
       "title": "Krishna and Kaliya",
       "hook": "A river had become so poisoned that no one could safely enter it, until Krishna stepped into the water.",
       "texture": "The fight is remembered for its impossible image: not a warrior standing over a serpent, but dancing on the heads of one.",
@@ -531,6 +556,7 @@
     {
       "id": "loki-sleipnir",
       "civilization": "Norse",
+      "character": "Loki",
       "title": "How Sleipnir Was Born",
       "hook": "A bargain to protect Asgard was about to cost the gods far more than they expected.",
       "texture": "What began as a clever construction deal became a race against a deadline the gods could not afford to lose.",
@@ -547,11 +573,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "marduk-tiamat",
       "civilization": "Mesopotamian",
+      "character": "Marduk",
       "title": "Marduk and Tiamat",
       "hook": "When chaos took the shape of Tiamat, the gods needed someone willing to face it.",
       "texture": "The other gods offered Marduk power because they were too frightened to face the chaos themselves.",
@@ -568,11 +595,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "midas-gold",
       "civilization": "Greek",
+      "character": "King Midas",
       "title": "The Golden Touch of Midas",
       "hook": "King Midas thought he had asked for the perfect gift, until he tried to eat.",
       "texture": "Gold had always looked like security from a distance. In his hands, it became the opposite.",
@@ -589,11 +617,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "nanahuatzin-sun",
       "civilization": "Aztec",
+      "character": "Nanahuatzin",
       "title": "Nanahuatzin Becomes the Sun",
       "hook": "When the gods needed a new sun, the humble one moved before the powerful one could.",
       "texture": "The contrast is the point: the one with less status finds the courage that the celebrated candidate cannot.",
@@ -610,11 +639,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "nuwa-sky",
       "civilization": "Chinese",
+      "character": "Nüwa",
       "title": "Nüwa Repairs the Sky",
       "hook": "When the sky itself broke, Nüwa had to repair the world before it collapsed completely.",
       "texture": "The scale of the disaster is cosmic, but the response is practical: repair what has broken before everything falls.",
@@ -631,11 +661,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "odin-wisdom",
       "civilization": "Norse",
+      "character": "Odin",
       "title": "Odin’s Sacrifice for Wisdom",
       "hook": "Odin wanted wisdom badly enough to pay for it with part of himself.",
       "texture": "Knowledge in this telling is never free. The question is always what someone is willing to lose for it.",
@@ -652,11 +683,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "okuninushi-hare",
       "civilization": "Japanese",
+      "character": "Ōkuninushi",
       "title": "Ōkuninushi and the Hare of Inaba",
       "hook": "A wounded hare lay on the shore after one clever trick went terribly wrong.",
       "texture": "Everyone who passed by had an answer, but only one response understood that healing starts with listening instead of showing off.",
@@ -678,6 +710,7 @@
     {
       "id": "orpheus-eurydice",
       "civilization": "Greek",
+      "character": "Orpheus",
       "title": "Orpheus and Eurydice",
       "hook": "Orpheus was given an impossible bargain: lead Eurydice out of death, but never look back.",
       "texture": "He had already crossed a boundary no living musician was supposed to cross, and the way back demanded trust.",
@@ -694,11 +727,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "osiris-return",
       "civilization": "Egyptian",
+      "character": "Osiris and Isis",
       "title": "Osiris, Isis, and the Return to Life",
       "hook": "Seth killed Osiris, but Isis refused to let the story end there.",
       "texture": "Isis turns grief into action, searching through loss instead of accepting the violence done to Osiris.",
@@ -715,11 +749,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "pandora-jar",
       "civilization": "Greek",
+      "character": "Pandora",
       "title": "Pandora’s Jar",
       "hook": "Pandora had one sealed jar, one warning, and a question she could not leave alone.",
       "texture": "The danger was not a monster at the door. It was the small, human urge to know what had been forbidden.",
@@ -736,11 +771,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "persephone-seasons",
       "civilization": "Greek",
+      "character": "Persephone",
       "title": "Persephone and the Seasons",
       "hook": "The moment Persephone vanished, the world itself began to starve.",
       "texture": "Demeter’s grief did not stay private. It reached the fields, the harvest, and every living thing.",
@@ -757,11 +793,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "phaethon-sun-chariot",
       "civilization": "Greek",
+      "character": "Phaethon",
       "title": "Phaethon and the Sun Chariot",
       "hook": "Phaethon wanted proof that the sun god was his father, so he asked for the one gift no mortal could control.",
       "texture": "The wish looks glorious for a heartbeat. Then the sky becomes a place where one mistake can burn the world below.",
@@ -783,6 +820,7 @@
     {
       "id": "prometheus-fire",
       "civilization": "Greek",
+      "character": "Prometheus",
       "title": "Prometheus and the Stolen Fire",
       "hook": "Before humans had warmth, light, or the tools to shape their lives, Prometheus made a choice that enraged Zeus.",
       "texture": "For humans, fire meant more than warmth; it meant the power to make, survive, and begin again.",
@@ -799,11 +837,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "quetzalcoatl-life",
       "civilization": "Aztec",
+      "character": "Quetzalcoatl",
       "title": "Quetzalcoatl and the Return of Life",
       "hook": "To bring life back, Quetzalcoatl had to descend into the realm of the dead.",
       "texture": "The journey asks for more than courage. It asks a god to carry the remains of an older world into a new one.",
@@ -820,11 +859,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "ra-night",
       "civilization": "Egyptian",
+      "character": "Ra",
       "title": "Ra’s Night Journey",
       "hook": "Every sunset was only the beginning of Ra’s most dangerous journey.",
       "texture": "Dawn was never guaranteed. Each morning had to be won again in the darkness beneath the horizon.",
@@ -841,11 +881,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "ragnarok",
       "civilization": "Norse",
+      "character": "The Norse gods",
       "title": "Ragnarök: The Twilight of the Gods",
       "hook": "Norse myth does not promise the gods a peaceful ending; it promises a final day of reckoning.",
       "texture": "Even the strongest gods know what is coming. That certainty is what gives the final battle its weight.",
@@ -862,11 +903,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "samudra-manthan",
       "civilization": "Hindu",
+      "character": "The devas and asuras",
       "title": "The Churning of the Ocean",
       "hook": "Gods and rivals pulled on the same cosmic rope, hoping the ocean would give up immortality.",
       "texture": "Both sides wanted the same prize, so cooperation was always going to be temporary and dangerous.",
@@ -883,11 +925,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "savitri-satyavan",
       "civilization": "Hindu",
+      "character": "Savitri",
       "title": "Savitri and Satyavan",
       "hook": "Savitri knew the day her husband would die, and she chose him anyway.",
       "texture": "When death finally arrives, the story does not make her stronger with a weapon. It gives her patience, language, and a refusal to turn back.",
@@ -909,6 +952,7 @@
     {
       "id": "shiva-poison",
       "civilization": "Hindu",
+      "character": "Shiva",
       "title": "Shiva Drinks the Poison",
       "hook": "The search for immortality first released something that could destroy the world.",
       "texture": "Before anyone could claim immortality, someone had to face the poison no one else could contain.",
@@ -925,11 +969,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "sigurd-fafnir",
       "civilization": "Norse",
+      "character": "Sigurd",
       "title": "Sigurd and Fafnir",
       "hook": "Sigurd did not face Fafnir with an army. He waited alone beneath the path of a dragon.",
       "texture": "The victory is only the first surprise, because the blood of the creature changes what Sigurd can hear and whom he can trust.",
@@ -951,6 +996,7 @@
     {
       "id": "susanoo-orochi",
       "civilization": "Japanese",
+      "character": "Susanoo",
       "title": "Susanoo and the Serpent Orochi",
       "hook": "One family faced a creature with eight heads, eight tails, and no obvious way to win.",
       "texture": "The family had already lost daughters to the serpent. This was their last chance to stop the pattern.",
@@ -967,11 +1013,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "theseus-minotaur",
       "civilization": "Greek",
+      "character": "Theseus",
       "title": "Theseus and the Minotaur",
       "hook": "A monster waited at the center of a maze built to make escape impossible.",
       "texture": "The Labyrinth was not just a prison for a monster; it was designed to make anyone inside feel lost.",
@@ -988,11 +1035,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "thor-hammer",
       "civilization": "Norse",
+      "character": "Thor",
       "title": "The Theft of Thor’s Hammer",
       "hook": "Thor woke to discover that the weapon no giant could face had vanished.",
       "texture": "Without Mjölnir, the thunder god was not only embarrassed; the balance between gods and giants felt exposed.",
@@ -1009,11 +1057,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "tyr-fenrir",
       "civilization": "Norse",
+      "character": "Týr",
       "title": "Týr and the Binding of Fenrir",
       "hook": "To bind a wolf the gods feared, someone had to put a hand where no one else would.",
       "texture": "The gods needed proof that Fenrir would trust them, even while they were preparing to betray that trust.",
@@ -1030,11 +1079,12 @@
         }
       ],
       "quality": "reviewed-seed",
-      "updatedAt": "2026-07-14T13:53:25.944Z"
+      "updatedAt": "2026-07-14T13:59:43.936Z"
     },
     {
       "id": "xolotl-axolotl",
       "civilization": "Aztec",
+      "character": "Xolotl",
       "title": "Xolotl and the Axolotl",
       "hook": "When the gods prepared to die so the sun could move, one of them ran.",
       "texture": "Xolotl’s story is strange because it turns fear itself into a shape that survives in water, visible and impossible to ignore.",
@@ -1056,6 +1106,7 @@
     {
       "id": "yu-great-flood",
       "civilization": "Chinese",
+      "character": "Yu the Great",
       "title": "Yu and the Great Flood",
       "hook": "For years, Yu watched floodwater take the land, and he chose not to fight it the way everyone else had.",
       "texture": "His solution is not one spectacular battle. It is the slower, harder idea that sometimes survival means giving a force somewhere to go.",
